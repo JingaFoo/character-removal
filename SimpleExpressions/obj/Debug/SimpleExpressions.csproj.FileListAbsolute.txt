@@ -1,0 +1,7 @@
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\bin\Debug\SimpleExpressions.exe.config
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\bin\Debug\SimpleExpressions.exe
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\bin\Debug\SimpleExpressions.pdb
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\obj\Debug\SimpleExpressions.csprojAssemblyReference.cache
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\obj\Debug\SimpleExpressions.csproj.CoreCompileInputs.cache
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\obj\Debug\SimpleExpressions.exe
+D:\Projects\C# Learn\UnitTesting\SimpleExpressions\SimpleExpressions\obj\Debug\SimpleExpressions.pdb
